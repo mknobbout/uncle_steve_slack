@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "xxx",
+        "type": "message",
+        "text": "Dit is een voorbeeld.",
+        "user": "xxx",
+        "ts": "123.123",
+        "team": "xxx",
+        "user_team": "xxx",
+        "source_team": "xxx",
+        "user_profile": {
+            "avatar_hash": "xxx",
+            "image_72": "xxx",
+            "first_name": "Abc",
+            "real_name": "Abc Def",
+            "display_name": "Abc",
+            "team": "xxx",
+            "name": "abc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "xxx",
+        "type": "message",
+        "text": "Dit is nog een voorbeeld.",
+        "user": "xxx",
+        "ts": "124.124",
+        "team": "xxx",
+        "user_team": "xxx",
+        "source_team": "xxx",
+        "user_profile": {
+            "avatar_hash": "xxx",
+            "image_72": "xxx",
+            "first_name": "xxx",
+            "real_name": "Abc Def",
+            "display_name": "Abc",
+            "team": "xxx",
+            "name": "abc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

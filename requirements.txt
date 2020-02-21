@@ -1,0 +1,9 @@
+numpy
+slackclient
+python-dotenv
+scikit-learn
+pytesseract
+Pillow
+tensorflow
+tensorflow-hub
+tensorflow-text
